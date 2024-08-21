@@ -12,7 +12,7 @@
    
    <style lang="scss" scoped>
    h1 {
-       color: $white;
+       color: white;
        text-align: center;
        margin-top: 50px;
    }
